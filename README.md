@@ -1,7 +1,5 @@
 ###  👋 Hi there, I'm Khizar  - aka [Khiz][website]!
 
-<br />
-
 - 🌱 I’m currently learning everything I can 🤣
 - 🥅 2020 Goals: Contribute more to Open Source projects and build out some business ideas I have
 - ⚡ Fun fact: I love making music and performing at shows
