@@ -8,8 +8,6 @@
 - ⚡ Fun fact: I love making music and performing at shows
 
 ![Khizars's github stats](https://github-readme-stats.vercel.app/api?username=khiz-k&show_icons=true&theme=radical&show_icons=true&count_private=true&hide=stars,issues)
- <img align="center" alt="Khizar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=khiz-k&show_icons=true&theme=radical&show_icons=true&count_private=true&hide=stars,issues" />
-
 
 ### Connect with me:
 
@@ -58,8 +56,8 @@
  
 
 
-[website]: https://khiz.ca
-[linkedin]: https://linkedin.com/in/khiz-k
+[website]: https://www.khiz.ca
+[linkedin]: https://www.linkedin.com/in/khiz-k
 
 
 # Project name
