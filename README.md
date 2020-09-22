@@ -9,11 +9,6 @@
 
 ![Khizars's github stats](https://github-readme-stats.vercel.app/api?username=khiz-k&show_icons=true&theme=radical&show_icons=true&count_private=true&hide=stars,issues)
 
-### Connect with me:
-
-[<img align="left" alt="khiz.ca" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Khizar Khan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
 ### Spotify Playing 🎧
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Khizar's Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
