@@ -1,6 +1,6 @@
-<div align=”center”>###  👋 Hi there, I'm Khizar  - aka [Khiz][website]!
+###  👋 Hi there, I'm Khizar  - aka [Khiz][website]!
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://khiz.ca)
+<div align=”center”>[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://khiz.ca)
 [![LinkedIn](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.linkedin.com/in/khizar-k/)
 
 <br />
