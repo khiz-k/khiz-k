@@ -1,7 +1,7 @@
 ###  👋 Hi there, I'm Khizar  - aka [Khiz][website]!
 
 - 🌱 I’m currently learning everything I can 🤣
-- 🥅 Goals: Contribute more to Open Source projects and build out some business ideas & tech libraries I've been holding off on
+- 🥅 Goals: Contribute more to Open Source projects and build out some business ideas & tech libraries
 
 <br />
 
