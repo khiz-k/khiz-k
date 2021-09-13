@@ -10,10 +10,4 @@
 ### Spotify Playing 🎧
 [<img src="https://novatorem.vercel.app/api/spotify" alt="Khizar's Spotify Playing" width="350" />](https://open.spotify.com/user/ihqfdxe9kifavilmu34rtdgbo)
 
-### Connect with me:
-
-[<img align="left" alt="Khizar Khan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: https://www.linkedin.com/in/khiz-k
-
 
