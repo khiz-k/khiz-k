@@ -1,4 +1,4 @@
-###  👋 Hi there, I'm Khizar  - aka [Khiz][website]!
+###  👋 Hi there, I'm Khizar!
 
 - 🌱 I’m currently learning everything I can 🤣
 - 🥅 Goals: Contribute more to Open Source projects and build out some business ideas
