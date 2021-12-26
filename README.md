@@ -1,5 +1,6 @@
 ###  👋 Hi there, I'm Khizar!
 
+- Ex-Microsoft, Current Amazon
 - 🌱 I’m currently learning everything I can 🤣
 - 🥅 Goals: contribute more to Open Source projects and build out some business ideas 🕴️
 
