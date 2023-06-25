@@ -1,4 +1,4 @@
-###  👋 Hi there, I'm Khizar!
+###  👋 Hi there, I'm Khiz!
 
 - FAANG Engineer
 - 🌱 I’m currently learning everything I can 🤣
