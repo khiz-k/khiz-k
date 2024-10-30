@@ -2,7 +2,7 @@
 
 - Engineer
 - 🌱 I’m currently learning everything I can 🤣
-- 🥅 Goals: contribute more to Open Source projects and build out some business ideas 🕴️
+- 🥅 Goals: contribute more to Open Source projects🕴️
 
 <br />
 
